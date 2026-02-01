@@ -28,4 +28,7 @@ The website follows semantic HTML structure and consistent styling, and it is de
  ![contact jpg](https://github.com/user-attachments/assets/d8c1823b-6610-4663-914a-c9d80c5c47b2)
 ![homepage jpg](https://github.com/user-attachments/assets/58fb99d8-b277-4206-bc52-7d3073fc674e)
 
+# how to run it locally
+https://github.com/harshini112006/week1-portfolio.git
+
 
