@@ -29,6 +29,9 @@ The website follows semantic HTML structure and consistent styling, and it is de
 ![homepage jpg](https://github.com/user-attachments/assets/58fb99d8-b277-4206-bc52-7d3073fc674e)
 
 # how to run it locally
-https://github.com/harshini112006/week1-portfolio.git
+1. Clone the repository from GitHub.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` using Live Server or any web browser.
+
 
 
